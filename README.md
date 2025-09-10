@@ -1,16 +1,41 @@
-## Hi there 👋
+# Bobby Ugbebor
 
-<!--
-**MDBBee/MDBBee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+💻 **A Full-stack Developer** with **7 years of experience** 
+- I building scalable, high-performance web applications.  
+- I specialize in delivering end-to-end solutions using modern frameworks, cloud platforms, and database systems.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Languages and Tools
+
+[![My Skills](https://skillicons.dev/icons?i=typescript,javascript,python,nodejs,express,fastapi,react,nextjs,postgresql,mongodb,mysql,docker,kubernetes,aws,cypress,linux,nginx&perline=18)](https://skillicons.dev)
+
+#
+
+---
+![image](https://github.com/MDBBee/MDBBee/blob/main/b-store.png?raw=true)
+---
+
+## 🌟 Featured Projects
+
+| Project | Description | Link |
+|---------|-------------|------|
+| <img src="https://github.com/MDBBee/MDBBee/blob/main/b-store.png?raw=true" width="120"/>  | **B-Store** Full-featured E-commerce app with Stripe & PayPal payment integration | [Live](https://b-store-three.vercel.app) |
+| <img src="https://github.com/MDBBee/MDBBee/blob/main/Screenshot%202025-08-14%20111419.png?raw=true" width="120"/>  | **B-Agent** Quiz app integrated with an AI agent | [Live](https://bagent.onrender.com) |
+| <img src="https://github.com/MDBBee/MDBBee/blob/main/b-furnitures.png?raw=true" width="120"/> | **B-Rentals** Platform for renting apartments with full CRUD functionality | [Live](https://b-rentals.vercel.app) |
+
+
+---
+
+### 📊 Stats
+![Bobby's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdbbee&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdbbee&layout=pie&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### 🤝 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel)](https://bobbyugbebor.com)  
+[![Email](https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail)](mailto:bobbyugbebor@gmail.com)  
