@@ -13,8 +13,9 @@
 
 #
 
+
 ---
-![image](https://github.com/MDBBee/MDBBee/blob/main/b-store.png?raw=true)
+![image](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExemw1Z3F4dXpsNzVzNW9xZmZvYXIxbjY3bHQweGs0a3U5ZGFzYnFzNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2QDPStBfVQjHXSOk/giphy.gif?raw=true)
 ---
 
 ## 🌟 Featured Projects
@@ -31,7 +32,6 @@
 ### 📊 Stats
 ![Bobby's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdbbee&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdbbee&layout=pie&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
