@@ -36,6 +36,6 @@
 ---
 
 ### 🤝 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bobby-ugbebor)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel)](https://bobbyugbebor.com)  
 [![Email](https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail)](mailto:bobbyugbebor@gmail.com)  
