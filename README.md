@@ -2,8 +2,9 @@
 
 ## About Me
 💻 **A Full-stack Developer** with **7 years of experience** 
-- I building scalable, high-performance web applications.  
-- I specialize in delivering end-to-end solutions using modern frameworks, cloud platforms, and database systems.  
+- I build secure, reliable, scalable and high-performance web and mobile applications. 
+- I specialize in delivering end-to-end solutions using modern frameworks, cloud platforms, and database systems.
+- I effortlessly design and build AI integrated web and mobile application systems.
 
 ---
 
