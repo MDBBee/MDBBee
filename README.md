@@ -11,7 +11,7 @@
 
 ### 🧰 Some Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=typescript,javascript,python,nodejs,express,fastapi,react,vue,nextjs,postgresql,mongodb,mysql,docker,kubernetes,rabbitmq,jenkins,aws,androidstudio,jest,cypress,selenium,linux,nginx&perline=18)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=typescript,javascript,python,nodejs,express,fastapi,react,vue,nextjs,postgresql,mongodb,mysql,docker,kubernetes,rabbitmq,jenkins,githubactions,aws,androidstudio,jest,cypress,selenium,linux,nginx&perline=18)](https://skillicons.dev)
 
 #
 
