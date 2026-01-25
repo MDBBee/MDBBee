@@ -1,7 +1,7 @@
 # Bobby Ugbebor
 
 ## About Me
-💻 **A Full-Stack Developer** | **Test Automation Engineer** with **6+ years of experience** 
+💻 **A Full-Stack Developer** | **Test Automation Engineer** with **7 years of experience** 
 - I build secure, reliable, scalable and high-performance web and mobile applications.
 - I manage the verification and validation of high end systems using modern and appropriate test methodologies, frameworks, libraries and tools.
 - I specialize in delivering end-to-end solutions using modern frameworks, cloud platforms, and database systems.
