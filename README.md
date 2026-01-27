@@ -28,13 +28,6 @@
 | <img src="https://github.com/MDBBee/MDBBee/blob/main/Screenshot%202025-08-14%20111419.png?raw=true" width="120"/>  | **B-Agent** Quiz app integrated with an AI agent | [Live](https://bagent.onrender.com) |
 | <img src="https://github.com/MDBBee/MDBBee/blob/main/b-furnitures.png?raw=true" width="120"/> | **B-Rentals** Platform for renting apartments with full CRUD functionality | [Live](https://b-rentals.vercel.app) |
 
-
----
-
-### 📊 Stats
-![Bobby's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdbbee&show_icons=true&theme=tokyonight)
-
-
 ---
 
 ### 🤝 Connect with Me
